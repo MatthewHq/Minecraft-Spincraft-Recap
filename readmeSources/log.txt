@@ -1,0 +1,302 @@
+[2015-10-20 22:05:50]{Removed}Portalz:spent:1 token ID:1445403950582
+[2015-10-20 22:09:05]{Delivered}Portalz:ordered:10 tokens ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3}:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 10, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 10, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Won}Portalz:ItemStack{GOLDEN_APPLE x 15, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Removed}Portalz:spent:1 token ID:1445404145051
+[2015-10-20 22:09:05]{Won}Portalz:ItemStack{GOLDEN_APPLE x 15}:1 token ID:1445404145051
+[2015-10-20 22:15:24]{Delivered}Portalz:ordered:10 tokens ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 10, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Removed}Portalz:spent:1 token ID:1445404524277
+[2015-10-20 22:15:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445404524277
+[2015-10-20 22:22:24]{Delivered}Portalz:ordered:10 tokens ID:1445404944302
+[2015-10-20 22:22:24]{Removed}Portalz:spent:1 token ID:1445404944302
+[2015-10-20 22:22:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 10, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445404944302
+[2015-10-20 22:22:24]{Removed}Portalz:spent:1 token ID:1445404944302
+[2015-10-20 22:22:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 10, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445404944302
+[2015-10-20 22:22:24]{Removed}Portalz:spent:1 token ID:1445404944302
+[2015-10-20 22:22:24]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3}:1 token ID:1445404944302
+[2015-10-20 22:22:24]{Removed}Portalz:spent:1 token ID:1445404944302
+[2015-10-20 22:22:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445404944302
+[2015-10-20 22:24:11]{Delivered}Portalz:ordered:10 tokens ID:1445405051133
+[2015-10-20 22:24:11]{Removed}Portalz:spent:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Removed}Portalz:spent:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Removed}Portalz:spent:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Removed}Portalz:spent:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Removed}Portalz:spent:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445405051133
+[2015-10-20 22:25:08]{Delivered}portalz:ordered:10000 tokens ID:1445405108450
+[2015-10-20 22:24:11]{Removed}Portalz:spent:1 token ID:1445405051133
+[2015-10-20 22:24:11]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445405051133
+[2015-10-20 22:25:08]{Removed}Portalz:spent:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Removed}Portalz:spent:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Removed}Portalz:spent:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Removed}Portalz:spent:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 5, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Removed}Portalz:spent:1 token ID:1445405108450
+[2015-10-20 22:25:08]{Won}Portalz:ItemStack{GOLDEN_APPLE x 30, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445405108450
+[2015-10-20 22:27:00]{Delivered}Portalz:ordered:10 tokens ID:1445405220710
+[2015-10-20 22:27:00]{Removed}Portalz:spent:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Removed}Portalz:spent:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Won}Portalz:ItemStack{GOLDEN_APPLE x 30, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Removed}Portalz:spent:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Removed}Portalz:spent:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Removed}Portalz:spent:1 token ID:1445405220710
+[2015-10-20 22:27:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445405220710
+[2015-10-20 23:10:00]{Delivered}Portalz:ordered:10 tokens ID:1445407800657
+[2015-10-20 23:10:00]{Removed}Portalz:spent:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Removed}Portalz:spent:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Removed}Portalz:spent:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Removed}Portalz:spent:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Removed}Portalz:spent:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Removed}Portalz:spent:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Removed}Portalz:spent:1 token ID:1445407800657
+[2015-10-20 23:10:00]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445407800657
+[2015-10-21 01:47:08]{Delivered}Portalz:ordered:10 tokens ID:1445417228617
+[2015-10-21 01:47:08]{Removed}Portalz:spent:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Removed}Portalz:spent:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Removed}Portalz:spent:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Removed}Portalz:spent:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Removed}Portalz:spent:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 2, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Removed}Portalz:spent:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 10, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1 x2, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Removed}Portalz:spent:1 token ID:1445417228617
+[2015-10-21 01:47:08]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445417228617
+[2015-10-21 01:53:57]{Delivered}Portalz:ordered:10 tokens ID:1445417637384
+[2015-10-21 01:53:57]{Removed}Portalz:spent:1 token ID:1445417637384
+[2015-10-21 01:53:57]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 10, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1 x2, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1445417637384
+[2015-10-21 01:53:57]{Removed}Portalz:spent:1 token ID:1445417637384
+[2015-10-21 01:53:57]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445417637384
+[2015-10-21 01:53:57]{Removed}Portalz:spent:1 token ID:1445417637384
+[2015-10-21 01:53:57]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1 x1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1445417637384
+[2015-10-21 03:02:56]{Delivered}Portalz:ordered:2 tokens ID:1445421776221
+[2015-10-21 03:02:56]{Removed}Portalz:spent:1 token ID:1445421776221
+[2015-10-21 03:02:56]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 5, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5 x1, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1445421776221
+[2015-10-21 16:00:55]{Delivered}Portalz:ordered:2 tokens ID:1445468455721
+[2015-10-21 16:00:55]{Removed}Portalz:spent:1 token ID:1445468455721
+[2015-10-21 16:00:55]{Won}Portalz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445468455721
+[2015-10-21 16:00:55]{Removed}Portalz:spent:1 token ID:1445468455721
+[2015-10-21 16:00:55]{Won}Portalz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445468455721
+[2015-10-21 16:04:39]{Delivered}Portalz:ordered:2 tokens ID:1445468679819
+[2015-10-21 16:04:39]{Removed}Portalz:spent:1 token ID:1445468679819
+[2015-10-21 16:04:39]{Won}Portalz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445468679819
+[2015-10-21 16:04:39]{Removed}Portalz:spent:1 token ID:1445468679819
+[2015-10-21 16:04:39]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445468679819
+[2015-10-21 16:12:13]{Delivered}Portalz:ordered:2 tokens ID:1445469133376
+[2015-10-21 16:12:13]{Removed}Portalz:spent:1 token ID:1445469133376
+[2015-10-21 16:12:13]{Removed}Portalz:spent:1 token ID:1445469133376
+[2015-10-21 16:12:13]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445469133376
+[2015-10-21 16:14:54]{Delivered}Portalz:ordered:2 tokens ID:1445469294372
+[2015-10-21 16:14:54]{Removed}Portalz:spent:1 token ID:1445469294372
+[2015-10-21 16:14:54]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§4Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445469294372
+[2015-10-21 16:14:54]{Removed}Portalz:spent:1 token ID:1445469294372
+[2015-10-21 16:14:54]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445469294372
+[2015-10-21 16:16:42]{Delivered}Portalz:ordered:2 tokens ID:1445469402691
+[2015-10-21 16:16:42]{Removed}Portalz:spent:1 token ID:1445469402691
+[2015-10-21 16:16:42]{Won}Portalz:ItemStack{GOLDEN_APPLE x 15, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445469402691
+[2015-10-21 16:16:42]{Removed}Portalz:spent:1 token ID:1445469402691
+[2015-10-21 16:16:42]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445469402691
+[2015-10-21 16:17:02]{Delivered}Portalz:ordered:20 tokens ID:1445469422742
+[2015-10-21 16:17:02]{Removed}Portalz:spent:1 token ID:1445469422742
+[2015-10-21 16:17:02]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445469422742
+[2015-10-21 16:17:02]{Removed}Portalz:spent:1 token ID:1445469422742
+[2015-10-21 16:17:02]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445469422742
+[2015-10-21 16:17:02]{Removed}Portalz:spent:1 token ID:1445469422742
+[2015-10-21 16:17:02]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445469422742
+[2015-10-22 14:04:34]{Delivered}Portalz:ordered:2 tokens ID:1445547874300
+[2015-10-23 01:03:10]{Delivered}Portalz:ordered:10 tokens ID:1445587390773
+[2015-10-23 01:30:23]{Delivered}Portallz:ordered:20 tokens ID:1445589023820
+[2015-10-25 12:01:29]{Delivered}Portalz:ordered:2 tokens ID:1445799689119
+[2015-10-25 12:01:29]{Removed}Portalz:spent:1 token ID:1445799689119
+[2015-10-25 12:01:29]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1445799689119
+[2015-10-25 12:01:29]{Removed}Portalz:spent:1 token ID:1445799689119
+[2015-10-25 12:01:29]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1445799689119
+[2015-10-27 17:45:37]{Delivered}Portalz:ordered:10 tokens ID:1445993137582
+[2015-10-28 20:12:46]{Delivered}Portalz:ordered:10 tokens ID:1446088366354
+[2015-10-28 20:12:46]{Removed}Portalz:spent:1 token ID:1446088366354
+[2015-10-28 20:12:46]{Won}Portalz:ItemStack{BEDROCK x 10, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088366354
+[2015-10-28 20:12:46]{Removed}Portalz:spent:1 token ID:1446088366354
+[2015-10-28 20:12:46]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088366354
+[2015-10-28 20:12:46]{Removed}ncnault:spent:1 token ID:1446088366354
+[2015-10-28 20:12:46]{Won}ncnault:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088366354
+[2015-10-28 20:18:17]{Delivered}locknlol:ordered:10 tokens ID:1446088697972
+[2015-10-28 20:18:18]{Delivered}Portalz:ordered:10 tokens ID:1446088698322
+[2015-10-28 20:18:17]{Removed}locknlol:spent:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Won}locknlol:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Removed}locknlol:spent:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Won}locknlol:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088697972
+[2015-10-28 20:18:18]{Removed}Portalz:spent:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Removed}Portalz:spent:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088698322
+[2015-10-28 20:18:17]{Removed}locknlol:spent:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Won}locknlol:ItemStack{GOLDEN_APPLE x 15, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Removed}locknlol:spent:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Won}locknlol:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Removed}locknlol:spent:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Won}locknlol:ItemStack{GOLDEN_APPLE x 15, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Removed}locknlol:spent:1 token ID:1446088697972
+[2015-10-28 20:18:17]{Won}locknlol:ItemStack{GOLDEN_APPLE x 30, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088697972
+[2015-10-28 20:18:18]{Removed}Portalz:spent:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Removed}Portalz:spent:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Removed}Portalz:spent:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Removed}Portalz:spent:1 token ID:1446088698322
+[2015-10-28 20:18:18]{Won}Portalz:ItemStack{BEDROCK x 10, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088698322
+[2015-10-28 20:19:07]{Delivered}Portalz:ordered:10 tokens ID:1446088747775
+[2015-10-28 20:19:09]{Delivered}Portalz:ordered:30 tokens ID:1446088749925
+[2015-10-28 20:19:07]{Removed}Portalz:spent:1 token ID:1446088747775
+[2015-10-28 20:19:07]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088747775
+[2015-10-28 20:19:07]{Removed}Portalz:spent:1 token ID:1446088747775
+[2015-10-28 20:19:07]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088747775
+[2015-10-28 20:19:07]{Removed}Portalz:spent:1 token ID:1446088747775
+[2015-10-28 20:19:07]{Won}Portalz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088747775
+[2015-10-28 20:19:07]{Removed}Portalz:spent:1 token ID:1446088747775
+[2015-10-28 20:19:07]{Won}Portalz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088747775
+[2015-10-28 20:19:09]{Removed}Portalz:spent:1 token ID:1446088749925
+[2015-10-28 20:19:09]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1446088749925
+[2015-10-28 20:19:09]{Removed}Portalz:spent:1 token ID:1446088749925
+[2015-10-28 20:19:09]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088749925
+[2015-10-28 20:19:09]{Removed}Portalz:spent:1 token ID:1446088749925
+[2015-10-28 20:19:09]{Won}Portalz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088749925
+[2015-10-28 20:19:09]{Removed}Portalz:spent:1 token ID:1446088749925
+[2015-10-28 20:19:09]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446088749925
+[2015-11-07 22:57:33]{Delivered}Espadaz:ordered:10 tokens ID:1446965853946
+[2015-11-07 22:57:33]{Removed}Espadaz:spent:1 token ID:1446965853946
+[2015-11-07 22:57:33]{Won}Espadaz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1446965853946
+[2015-12-03 01:29:06]{Delivered}Portalz:ordered:10 tokens ID:1449134946398
+[2015-12-03 01:29:06]{Removed}Portalz:spent:1 token ID:1449134946398
+[2015-12-03 01:29:06]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1449134946398
+[2022-01-17 01:00:36]{Delivered}portalz:ordered:20 tokens ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{BEDROCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{GOLDEN_APPLE x 15, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{BEDROCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=Enchant Token x1, lore=[§bHold What You Want To Enchant, §bSpend Using /tokens!]}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{DIRT x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{DIRT x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{SAPLING x 2, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x2}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{SAPLING x 64, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x64}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{ENDER_PEARL x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{DIAMOND_BLOCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{TNT x 32, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x32}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{DIAMOND x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Removed}Portalz:spent:1 token ID:1642410036317
+[2022-01-17 01:00:36]{Won}Portalz:ItemStack{ENDER_CHEST x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642410036317
+[2022-01-18 09:30:07]{Delivered}portalz:ordered:10 tokens ID:1642527007157
+[2022-01-18 09:30:07]{Removed}Portalz:spent:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Won}Portalz:ItemStack{MAGMA_CREAM x 64, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x64}}:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Removed}Portalz:spent:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Won}Portalz:ItemStack{TNT x 32, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x32}}:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Removed}Portalz:spent:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Won}Portalz:ItemStack{ENDER_CHEST x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Removed}Portalz:spent:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Won}Portalz:ItemStack{GOLD_BLOCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Removed}Portalz:spent:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Won}Portalz:ItemStack{BOOK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Removed}Portalz:spent:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Removed}Portalz:spent:1 token ID:1642527007157
+[2022-01-18 09:30:07]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1 x1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1642527007157
+[2022-01-18 09:51:50]{Delivered}Portalz:ordered:10 tokens ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{DIAMOND x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 5, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5 x1, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 1 x1, stored-enchants={SILK_TOUCH=1}}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{DIAMOND_BLOCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5 x1, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{GOLDEN_APPLE x 3, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x3}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 1 x1, stored-enchants={FIRE_ASPECT=1}}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{ENDER_CHEST x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{DIAMOND_BLOCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Removed}Portalz:spent:1 token ID:1642528310409
+[2022-01-18 09:51:50]{Won}Portalz:ItemStack{ENDER_CHEST x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x1}}:1 token ID:1642528310409
+[2022-01-18 10:07:24]{Delivered}portalz:ordered:10 tokens ID:1642529244786
+[2022-01-18 10:07:24]{Removed}Portalz:spent:1 token ID:1642529244786
+[2022-01-18 10:07:24]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rSilk Touch 5 x1, stored-enchants={SILK_TOUCH=5}}}:1 token ID:1642529244786
+[2022-01-18 10:25:22]{Delivered}portalz:ordered:10 tokens ID:1642530322388
+[2022-01-18 10:25:22]{Removed}Portalz:spent:1 token ID:1642530322388
+[2022-01-18 10:25:22]{Won}Portalz:ItemStack{DIAMOND_BLOCK x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642530322388
+[2022-01-18 10:25:22]{Removed}Portalz:spent:1 token ID:1642530322388
+[2022-01-18 10:25:22]{Won}Portalz:ItemStack{DIAMOND x 5, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=x5}}:1 token ID:1642530322388
+[2022-01-18 10:25:22]{Removed}Portalz:spent:1 token ID:1642530322388
+[2022-01-18 10:25:22]{Won}Portalz:ItemStack{ENCHANTED_BOOK x 1, ENCHANTED_META:{meta-type=ENCHANTED, display-name=§rFire Aspect 5 x1, stored-enchants={FIRE_ASPECT=5}}}:1 token ID:1642530322388
