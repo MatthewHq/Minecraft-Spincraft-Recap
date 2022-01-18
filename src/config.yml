@@ -1,0 +1,108 @@
+#=======================GENERAL CONFIG=================
+3RowBonus: 5
+5RowBonus: 10
+logToConsole: false
+logToFolder: true
+#===================CONFIG REGARDING ITEMS=================
+#Material ENUM
+MaterialTable:
+- GOLDEN_APPLE
+- ENCHANTED_BOOK
+- DIAMOND_SWORD
+- DIAMOND
+- REDSTONE
+- SLIME_BALL
+- ENDER_PEARL
+- SAPLING
+- DIAMOND_BLOCK
+- DIAMOND_CHESTPLATE
+- GOLD_BLOCK
+- MAGMA_CREAM
+- NETHER_STAR
+- TNT
+- ENDER_CHEST
+- REDSTONE_BLOCK
+#Material Amount
+MaterialAmountTable:
+- 3
+- 1
+- 1
+- 5
+- 10
+- 10
+- 5
+- 64
+- 5
+- 1
+- 5
+- 64
+- 1
+- 32
+- 1
+- 10
+#Material Short
+MaterialShortTable:
+- 1
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 3
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+#MATCH THE PREVIOUS LIST PER ITEM
+MaterialChanceTable:
+- 100
+- 200
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+- 50
+#Line 1: Material ENUM | Line 2: Enchanted(true/false)
+FlagItem:
+    type: ENCHANTED_BOOK
+    enchant: FIRE_ASPECT
+    enchantLevel: 5
+    short: 0
+    amount: 10
+#===================CONFIG REGARDING ENCHANTS=================
+#Enchants are applied to any BOOK item
+#Enchantment ENUM
+EnchantTable:
+- DAMAGE_ALL
+- SILK_TOUCH
+- SILK_TOUCH
+- FIRE_ASPECT
+- FIRE_ASPECT
+#MATCH THE PREVIOUS LIST PER ITEM
+EnchantLevelTable:
+- 5
+- 1
+- 5
+- 1
+- 5
+#MATCH THE PREVIOUS LIST PER ITEM
+EnchantChanceTable:
+- 10
+- 290
+- 300
+- 150
+- 250

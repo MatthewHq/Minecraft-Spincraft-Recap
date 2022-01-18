@@ -1,0 +1,19 @@
+name: Spincraft
+main: com.gmail.hoque.matt.Spincraft.Spincraft
+version: 1.0
+authors: 
+    - Portalz
+description: Minecraft Item Spinner
+commands:
+    spin:
+        description: Spincraft Base Command
+        #usage:
+
+
+permissions:
+  spincraft.admin:
+    Description: Allows for admin commands
+    default: false
+  spincraft.player:
+    Description: Allows Recovery
+    default: false
