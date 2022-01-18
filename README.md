@@ -1,18 +1,27 @@
-## Getting Started
+# Spincraft: Minecraft Plugin
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Visual In-game "Random Loot Box" rewards system
+Deployed on live server as monetization feature
 
-## Folder Structure
+![image](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/readmeSources/spincraftGif.gif?raw=true)
 
-The workspace contains two folders by default, where:
+### Features:
+- [Activity logs](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/readmeSources/log.txt)
+- Automatic on-disconnect prize recovery
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+  ![image](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/readmeSources/relog.png?raw=true)
+- Multi-module support
+- [Customaization through config file](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/src/config.yml)
+  - Items
+    - Type
+    - Short (Minecraft sub-item classifcation)
+    - Amount
+    - Probability
+  - Enchantments
+    - Type
+    - Level
+    - Probability
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Commands
+![image](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/readmeSources/commands.png?raw=true)
