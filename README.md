@@ -11,7 +11,7 @@ Deployed on live server as monetization feature
 
   ![image](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/readmeSources/relog.png?raw=true)
 - Multi-module support
-- [Customaization through config file](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/src/config.yml)
+- [Customization through config file](https://github.com/MatthewHoque/Minecraft-Spincraft-Recap/blob/main/src/config.yml)
   - Items
     - Type
     - Short (Minecraft sub-item classifcation)
